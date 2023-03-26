@@ -1,5 +1,6 @@
-# Designing a Sales dashboard in Excel
-#
+### Designing a Sales dashboard in Excel
+---
+
 
 
 - In this project I have Design a sales dashboard that analyzes the sales based on various product categories and added user control for product categories so that users can select a category and can see the trend month-wise and product-wise accordingly.
